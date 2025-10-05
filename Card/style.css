@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+     width: 400px;
+    margin: 10% auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    border-bottom: 4px solid #46acff;
+ 
+  
+}
+img{
+    width: 280px;
+    
+}
+
+h4{
+    font-weight: 500;
+}
